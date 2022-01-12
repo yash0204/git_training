@@ -1,2 +1,3 @@
 2nd test file
 3rd test line
+added 4th line by john
